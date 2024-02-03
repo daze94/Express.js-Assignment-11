@@ -50,10 +50,10 @@ This project is licensed under the MIT License.
 
 For any questions please contact me directly at `Gurwindersandhu1109@gmail.com`.
 
-## Repository
-
-
-
 ## Screenshot
+![image](https://github.com/daze94/Express.js-Assignment-11/assets/149103854/95b3db30-a322-421d-b4fc-80be2cdd8af6)
+![image](https://github.com/daze94/Express.js-Assignment-11/assets/149103854/120d299d-f97a-4ffe-b1a2-3720e9a942a6)
+
+
 
 
