@@ -28,19 +28,11 @@ To run Note Taker locally, follow these steps:
 
 ## Usage
 
-1. Navigate to the deployed application URL.
+1. Navigate to the deployed localhost:3001 after doing Node Server.js
 2. Click on the link to the notes page to view and manage notes.
 3. Add a new note by entering a note title and note text, then click the "Save Note" button.
 4. Click on an existing note to view its details.
 5. To add a new note, click the "New Note" button.
-
-## Deployment
-
-This application is deployed on Heroku. [Click here](#) to visit the live application. *(Replace the `#` with your actual deployed URL.)*
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 ## License
 
@@ -50,10 +42,10 @@ This project is licensed under the MIT License.
 
 For any questions please contact me directly at `Gurwindersandhu1109@gmail.com`.
 
-## Repository
-
-
-
 ## Screenshot
+![image](https://github.com/daze94/Express.js-Assignment-11/assets/149103854/95b3db30-a322-421d-b4fc-80be2cdd8af6)
+![image](https://github.com/daze94/Express.js-Assignment-11/assets/149103854/120d299d-f97a-4ffe-b1a2-3720e9a942a6)
+
+
 
 
