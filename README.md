@@ -34,14 +34,6 @@ To run Note Taker locally, follow these steps:
 4. Click on an existing note to view its details.
 5. To add a new note, click the "New Note" button.
 
-## Deployment
-
-This application is deployed on Heroku. [Click here](#) to visit the live application. *(Replace the `#` with your actual deployed URL.)*
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for review.
-
 ## License
 
 This project is licensed under the MIT License.
