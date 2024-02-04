@@ -28,7 +28,7 @@ To run Note Taker locally, follow these steps:
 
 ## Usage
 
-1. Navigate to the deployed application URL.
+1. Navigate to the deployed localhost:3001 after doing Node Server.js
 2. Click on the link to the notes page to view and manage notes.
 3. Add a new note by entering a note title and note text, then click the "Save Note" button.
 4. Click on an existing note to view its details.
